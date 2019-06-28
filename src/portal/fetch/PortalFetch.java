@@ -34,7 +34,7 @@ public class PortalFetch {
         WebElement signingButton = driver.findElement(By.id("home")).findElement(By.className("btn"));
 
         userName.sendKeys("ATR/2391/09");
-        password.sendKeys("0620");
+        password.sendKeys("####");
         signingButton.click();
 
 
