@@ -46,6 +46,7 @@ public class PortalFetch {
 
         driver.findElement(By.id("m2")).click();
         driver.navigate().to("https://portal.aait.edu.et/Grade/GradeReport");
+        //Fetch the grade report
 
         String value  = driver.findElement(By.className("table")).getText();
 
@@ -53,6 +54,7 @@ public class PortalFetch {
 
         Verify(actualUrl, PortalUrl, driver);
     }
+    //Method for exporting grade report in to text file
      public static void ExportToWordFile(String gradeReport){
         try (PrintWriter writer = new PrintWriter("GradeReport.txt")) {
             writer.println(gradeReport);
