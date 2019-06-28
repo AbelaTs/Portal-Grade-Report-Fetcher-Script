@@ -1,0 +1,71 @@
+No. Course Title Code Credit Hour ECTS Grade
+
+    Academic Year : 2018/19,     Year III,    Semester : One
+
+1 Object-Oriented Programming II ITSE-3241 4.00 7.00 A+ Assessment
+2 System Programming ITSE-3133 4.00 7.00 A Assessment
+3 Engineering Mechanics II (Dynamics) MEng-1052 3.00 6.00 B+ Assessment
+4 Digital Logic Design ITSE-3161 4.00 7.00 A Assessment
+5 Web Programming I ITSE-3193 4.00 7.00 B+ Assessment
+
+                       SGP : 129.5                              SGPA : 3.81
+                       CGP : 613.5                              CGPA : 3.74
+
+                       Academic Status : Promoted
+
+
+    Academic Year : 2017/18,     Year II,    Semester : Two
+
+1 Software Engineering I (Software Modeling & Analysis) ITSE-2211 3.00 7.00 A Assessment
+2 Fundamentals of Networking ITSE-2121 4.00 7.00 A Assessment
+3 Mobile Programming ITSE-2122 4.00 7.00 A+ Assessment
+4 Fundamentals of Web Design and Development ITSE-2192 4.00 7.00 A Assessment
+5 Graphics and Multimedia I ITSE-2191 3.00 6.00 A+ Assessment
+
+                       SGP : 136                              SGPA : 4
+                       CGP : 484                              CGPA : 3.72
+
+                       Academic Status : Promoted
+
+
+    Academic Year : 2017/18,     Year II,    Semester : One
+
+1 Fundamentals of Electronics ITSE-2262 3.00 6.00 A Assessment
+2 Fundamentals of Data Structures and Algorithms ITSE-2131 4.00 7.00 A+ Assessment
+3 Object-Oriented Programming I ITSE-2132 4.00 7.00 B- Assessment
+4 Fundamentals of Database ITSE-2221 4.00 7.00 A- Assessment
+5 Discrete Mathematics ITSE-2231 3.00 6.00 C Assessment
+
+                       SGP : 109.5                              SGPA : 3.32
+                       CGP : 348                              CGPA : 3.63
+
+                       Academic Status : Promoted
+
+
+    Academic Year : 2016/17,     Year I,    Semester : Two
+
+1 Applied Mathematics II Math-1042 4.00 7.00 A Assessment
+2 Fundamentals of Computer Science and Programming ITSE-1131 4.00 7.00 A Assessment
+3 Fundamentals of Electrical Circuits ITSE-1261 3.00 6.00 A- Assessment
+4 Basic Writing Skills- EnLa-1012 3.00 5.00 A Assessment
+5 Fundamentals of Information Technology ITSE-1071 4.00 7.00 B+ Assessment
+
+                       SGP : 123                              SGPA : 3.84
+                       CGP : 238.5                              CGPA : 3.79
+
+                       Academic Status : Promoted
+
+
+    Academic Year : 2016/17,     Year I,    Semester : One
+
+1 Engineering Mechanics I Statistics CEng-1051 3.00 6.00 B+ Assessment
+2 Applied Mathematics I Math-1041 4.00 7.00 B+ Assessment
+3 Engineering Drawing- MEng-1062 3.00 6.00 A+ Assessment
+4 Communicative English Skill EnLa-1011 3.00 5.00 A+ Assessment
+5 Civics and Ethical Education CESt-1023 3.00 5.00 A Assessment
+6 Introduction to Engineering Profession GEng-1061 1.00 2.00 B Assessment
+
+                       SGP : 115.5                              SGPA : 3.73
+                       CGP : 115.5                              CGPA : 3.73
+
+                       Academic Status : Promoted
