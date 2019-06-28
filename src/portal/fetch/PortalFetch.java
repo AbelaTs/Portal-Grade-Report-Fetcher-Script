@@ -43,10 +43,10 @@ public class PortalFetch {
         System.out.println("Page title : " + title);
         System.out.println("Title Length : "+ titleLength);
         String actualUrl = driver.getCurrentUrl();
-
+        //Fetch the grade report
         driver.findElement(By.id("m2")).click();
         driver.navigate().to("https://portal.aait.edu.et/Grade/GradeReport");
-        //Fetch the grade report
+        
 
         String value  = driver.findElement(By.className("table")).getText();
 
